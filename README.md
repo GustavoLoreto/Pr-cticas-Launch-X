@@ -1,4 +1,4 @@
-# Pr-cticas-Launch-X
+# Prácticas-Launch-X
 
 Launch X 
 Práctica 
